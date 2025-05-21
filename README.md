@@ -9,7 +9,7 @@
 A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a>.
 </h3>
 
-## Preview
+## Preview 
 
 | Dark                             | Light                             |
 | -------------------------------- | --------------------------------- |
