@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="ce1nter">
   <img src="./src-tauri/icons/icon.png" alt="Clash" width="128" />
   <br>
   Continuation of <a href="https://github.com/zzzgydi/clash-verge">Clash Verge</a>
